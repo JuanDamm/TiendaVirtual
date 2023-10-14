@@ -1,4 +1,7 @@
-
+<div id="header" aling="center">
+       <img src="https://giphy.com/embed/kliStk02WKPkHxDUCb" width="400" height="400">
+        <h1 aling="center">¡Hi! Welcome AirFiney</h1>
+    </div>
 
 # ¡Bienvenidos a Airfiney! 🛒
 
