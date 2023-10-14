@@ -1,7 +1,4 @@
-<div id="header" aling="center">
-        <iframe src="https://giphy.com/embed/kliStk02WKPkHxDUCb" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gm-mental-barf-nft-kliStk02WKPkHxDUCb">via GIPHY</a></p>
-        <h1 aling="center">¡Hi! Welcome AirFiney</h1>
-    </div>
+
 
 # ¡Bienvenidos a Airfiney! 🛒
 
