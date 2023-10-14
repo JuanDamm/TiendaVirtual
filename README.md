@@ -1,4 +1,6 @@
-
+ <div id="header" aling="center">
+       <img src="https://media.giphy.com/media/kliStk02WKPkHxDUCb/giphy.gif" width="400" height="400">
+    </div>
 
 # ¡Bienvenidos a Airfiney! 🛒
 
